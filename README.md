@@ -19,7 +19,7 @@ ARGUS is a decentralized, autonomous investigative platform designed to analyze 
 
 ```bash
 # Clone repository
-git clone https://github.com/argus-project/argus.git
+git clone https://github.com/Sentinel-Company/argus.git
 cd argus
 
 # Start infrastructure
