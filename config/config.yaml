@@ -1,0 +1,10 @@
+neo4j:
+  uri: "bolt://neo4j:7687"
+  user: "neo4j"
+  password: "argus_secure_password"
+
+ipfs:
+  api_endpoint: "/dns/ipfs/tcp/5001/http"
+
+redis:
+  url: "redis://redis:6379/0"
